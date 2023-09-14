@@ -5,6 +5,8 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
+  background-color: black;
+  color: white;
 }
 
 .container {
@@ -84,6 +86,9 @@ body {
   padding: 5px 8px;
   border-radius: 3px;
 }
+.button {
+  color: rgb(21, 161, 237);
+}
 
 .five p {
   font-size: 2rem;
@@ -109,7 +114,7 @@ body {
 }
 
 .idea-6 span {
-  font-size: 15rem;
+  font-size: 12rem;
 }
 
 .six {
@@ -120,13 +125,14 @@ body {
   display: inline-block;
   max-width: 100%;
   height: auto;
+  border-radius: 8%;
 }
 
 .six .hat {
   position: absolute;
-  width: 80px;
-  top: -35px;
-  left: 41.5%;
+  width: 85px;
+  top: -60px;
+  left: 80%;
   /* transform: scale(0.1); */
 }
 
