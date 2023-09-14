@@ -39,6 +39,11 @@ body {
   top: 20vh;
 }
 
+.credit {
+  font-style: italic;
+  font-size: 18px !important;
+  padding-top: 100px;
+}
 .one {
   font-size: 4.5rem;
 }
